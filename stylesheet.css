@@ -1,1 +1,15 @@
-h1 {font-weight: 200; font-family: Helvetica}
+h1 {
+	font-weight: 500px;
+	font-family: Helvetica;
+	font-color: ;
+}
+
+h1.name {
+	text-align: center;
+	font-weight: lighter;
+}
+
+h6.name {
+	text-align: center;
+	color: gray
+}
