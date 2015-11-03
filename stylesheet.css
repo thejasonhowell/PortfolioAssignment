@@ -14,6 +14,19 @@ h6.add {
 	color: gray
 }
 
+h6.contact {
+	text-align: left;
+	color: black;
+	font-family: Helvetica;
+	font-weight: lighter;
+	font-size: 50px;
+
+}
+
+.thumb {
+	margin-right: 100px;
+}
+
 li.bar {
 	display: inline;
 	float: left;
