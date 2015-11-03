@@ -1,7 +1,7 @@
 h1 {
-	font-weight: lighter;
+	font-weight: 500px;
 	font-family: Helvetica;
-
+	font-color: ;
 }
 
 h1.name {
@@ -9,7 +9,21 @@ h1.name {
 	font-weight: lighter;
 }
 
-h6.name {
+h6.add {
 	text-align: center;
-	color: gray;
+	color: gray
+}
+
+li.bar {
+	display: inline;
+	float: left;
+	text-align: center;
+	position: relative;
+	display: inline;
+	border: 2px black solid;
+	margin: 10px;
+}
+
+ul {
+
 }
