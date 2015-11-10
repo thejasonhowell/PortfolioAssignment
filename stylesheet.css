@@ -53,3 +53,10 @@ ul.nav {
 	display: inline-block;
 	padding: 10px;
 }
+
+.responsive-image {
+	max-width: 100%; 
+display:block; 
+height: auto;
+
+}
